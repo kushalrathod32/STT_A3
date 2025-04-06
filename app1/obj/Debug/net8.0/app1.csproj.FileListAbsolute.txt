@@ -1,0 +1,14 @@
+F:\D\IITGN\CS 202 STT\Kushal\app1\bin\Debug\net8.0\app1.exe
+F:\D\IITGN\CS 202 STT\Kushal\app1\bin\Debug\net8.0\app1.deps.json
+F:\D\IITGN\CS 202 STT\Kushal\app1\bin\Debug\net8.0\app1.runtimeconfig.json
+F:\D\IITGN\CS 202 STT\Kushal\app1\bin\Debug\net8.0\app1.dll
+F:\D\IITGN\CS 202 STT\Kushal\app1\bin\Debug\net8.0\app1.pdb
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\app1.GeneratedMSBuildEditorConfig.editorconfig
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\app1.AssemblyInfoInputs.cache
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\app1.AssemblyInfo.cs
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\app1.csproj.CoreCompileInputs.cache
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\app1.dll
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\refint\app1.dll
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\app1.pdb
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\app1.genruntimeconfig.cache
+F:\D\IITGN\CS 202 STT\Kushal\app1\obj\Debug\net8.0\ref\app1.dll
